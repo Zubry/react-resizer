@@ -4,7 +4,7 @@ import React from 'react';
 // this is how we'll reference it
 // If you're installing from npm, it'll look like
 // import Resizer from 'resizer';
-import Resizer from './../../resizer/dist/';
+import Resizer from './../../';
 
 export default class App extends React.Component {
   render() {
